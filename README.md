@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mim-obaidur-rahman-nasim&label=Profile%20views&color=0e75b6&style=flat" alt="mim-obaidur-rahman-nasim" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@obaidurnasim" target="blank"><img src="https://img.shields.io/twitter/follow/@obaidurnasim?logo=twitter&style=for-the-badge" alt="@obaidurnasim" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@mimobaidurahman" target="blank"><img src="https://img.shields.io/twitter/follow/@mimobaidurahman?logo=twitter&style=for-the-badge" alt="@mimobaidurahman" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
